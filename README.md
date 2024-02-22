@@ -1,3 +1,3 @@
 # Overview
 
-![image](./workflow.jpg)
+<img src="./workflow.jpg" width="275">
