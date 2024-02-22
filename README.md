@@ -1,3 +1,3 @@
 # Overview
 
-<img src="./workflow.jpg" width="325">
+<img src="./workflow.jpg" width="375">
