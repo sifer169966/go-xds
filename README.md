@@ -9,7 +9,6 @@
   - [Application Internal Workflow](#application-internal-workflow)
   - [Call Graph Overview](#call-graph-overview)
 - [xDS Client](#xds-client)
-  - [Available xDS resources](#available-xds-resources)
   - [Example](#example)
     - [Go](#go)
 
