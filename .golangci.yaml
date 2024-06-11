@@ -1,0 +1,25 @@
+run:
+  concurrency: 2
+  timeout: 5m
+  go: "1.22"
+
+linters:
+  disable:
+    - errcheck
+  enable:
+    - bodyclose
+    - exportloopref
+    - errorlint
+    - gofmt
+    - goconst
+    - gocritic
+    - goimports
+    - gosec
+    - misspell
+    - nakedret
+    - noctx
+    - prealloc
+    - stylecheck
+    - typecheck
+    - unconvert
+    - unparam
